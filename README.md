@@ -1,4 +1,6 @@
 # cub3D
+created by faozturk and cyalniz
+
 My first RayCaster with miniLibX
 
 This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable us to explore ray-casting. The goal will be to make a dynamic view inside a maze.
